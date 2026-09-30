@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Academia Embalar">
+  <rect width="64" height="64" rx="14" fill="#0C275E"/>
+  <path d="M14 46 27 16h10l13 30H39l-2.1-5.4H26.4L24.2 46H14Zm15.5-13.5h4.3l-2.1-6.3-2.2 6.3Z" fill="#FFB703"/>
+  <path d="M12 51h40" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>
+

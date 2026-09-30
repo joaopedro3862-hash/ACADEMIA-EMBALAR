@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Vídeo de apresentação da Academia Embalar</title>
+  <desc id="desc">Fundo azul com ícone de reprodução e a frase conhecimento para movimentar negócios.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07366B"/>
+      <stop offset="1" stop-color="#0873D2"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2997EF" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#2997EF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <circle cx="755" cy="104" r="280" fill="url(#glow)"/>
+  <circle cx="95" cy="525" r="210" fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="60"/>
+  <path d="M680 160c55 45 94 108 108 180" fill="none" stroke="#FFB703" stroke-opacity=".35" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(410 178)">
+    <circle cx="70" cy="70" r="68" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".65" stroke-width="3"/>
+    <path d="m55 39 50 31-50 31V39Z" fill="#FFB703"/>
+  </g>
+  <text x="480" y="376" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">ACADEMIA EMBALAR</text>
+  <text x="480" y="426" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="33" font-weight="800">Conhecimento para movimentar negócios.</text>
+  <text x="480" y="472" text-anchor="middle" fill="#fff" fill-opacity=".68" font-family="Arial, sans-serif" font-size="18">Substitua este poster e adicione o vídeo oficial antes de publicar.</text>
+</svg>
+
